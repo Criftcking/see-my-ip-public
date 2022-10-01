@@ -1,5 +1,5 @@
 # see-my-public-ip
-este programa esta echo para saber la ip publica en linux
+este programa esta hecho para saber la ip publica en linux
 
 ## instalacion
 ```shell script
